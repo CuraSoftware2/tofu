@@ -72,6 +72,9 @@ Proud user of ToFu? Feel free to [add your company!](https://github.com/tofu-tf/
 
 <a href="https://www.rms.com/"><img width="15%" src="logos/rms-logo.svg?sanitize=true" alt="Risk Management Solutions" /></a>
 
+<a href="https://www.curasoftware.com/"><img width="15%" src="logos/rms-logo.svg?sanitize=true" alt="Risk Management Solutions(GRC)" /></a>
+
+
 # Contributing
 
 Please note we use the following labels for automated release descriptions:
